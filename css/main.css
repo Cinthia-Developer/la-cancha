@@ -1,0 +1,42 @@
+/* Inserta tu CSS aqui */
+.caja{
+    width: 800px;
+    height: 500px;
+    background-color: deeppink;
+    position: static;
+}
+.caja2{
+    border: 1px solid white;
+    width: 740px;
+    height: 440px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.uno{
+    border: 1px solid white;
+    width: 125px;
+    height: 200px;
+    position: absolute;
+    bottom: 120px;
+    margin: -1px;    
+}
+.redondo{
+    border-radius: 100px;
+    border: 2px solid white;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 270px;
+    bottom: 120px;
+    
+}
+.dos{
+    border: 1px solid white;
+    width: 125px;
+    height: 200px;
+    position: absolute;
+    right: 0;
+    bottom: 120px;
+    margin: -1px;
+}
