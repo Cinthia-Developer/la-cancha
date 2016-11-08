@@ -2,7 +2,7 @@
 .caja{
     width: 800px;
     height: 500px;
-    background-color: deeppink;
+    background-color:darkolivegreen;
     position: static;
 }
 .caja2{
@@ -19,7 +19,7 @@
     height: 200px;
     position: absolute;
     bottom: 120px;
-    margin: -1px;    
+    margin: -1px;
 }
 .redondo{
     border-radius: 100px;
@@ -29,7 +29,6 @@
     position: absolute;
     left: 270px;
     bottom: 120px;
-    
 }
 .dos{
     border: 1px solid white;
@@ -39,4 +38,25 @@
     right: 0;
     bottom: 120px;
     margin: -1px;
+}
+.pelotita1{
+    background-image: url(../img/bola.png);
+    width: 24px;
+    height: 24px;position: relative;
+    left: 115px;
+    top: 3px;    
+}
+.pelotita2{
+    background-image: url(../img/bola.png);
+    width: 24px;
+    height: 24px;position: relative;
+    left: 270px;
+    bottom: 60px;
+}
+.pelotita3{
+    background-image: url(../img/bola.png);
+    width: 24px;
+    height: 24px;position: relative;
+    left: 470px; 
+    top: 142px;
 }
